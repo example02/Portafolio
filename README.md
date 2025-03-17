@@ -1,4 +1,4 @@
-# Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
+# Portafolio ¡Hola, bienvenido a mi proyecto de portafolio!
 ![imagen](https://cdn1.gnarususercontent.com.br/6/450324/9facae6f-79bf-48f3-b3a9-b4f9284802d7.png)  
 # 📌 Descripción del Proyecto  
 Este proyecto tiene como finalidad **ofrecer al mercado las aptitudes y habilidades de una persona**, permitiendo que potenciales empleadores, clientes o colaboradores puedan conocer su perfil de manera clara y atractiva.  
